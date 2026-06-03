@@ -59,14 +59,4 @@
 <img src="https://skillicons.dev/icons?i=python,django,react,js,cpp,aws,azure,docker,fastapi,mongodb,mysql,sqlite,flask" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hashir-python&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hashir-python&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-python&layout=compact&theme=tokyonight" />
-</p>
-
----
 
