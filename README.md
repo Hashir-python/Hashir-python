@@ -33,14 +33,6 @@
 
 ---
 
-## 💬 Ask Me About
-- 🐍 Python Full Stack Development  
-- ⚡ Django REST Framework  
-- 🗄️ Database Design (SQL vs NoSQL)  
-- 🔗 API + React Integration  
-
----
-
 ## 🎯 Fun Facts
 - 🚀 From tutorials → real-world projects (still leveling up!)  
 - 💻 I break code... then fix it better 😄  
